@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoUri":"mongodb://FirstUser:7415151asd@mern-shard-00-00.xvzcr.mongodb.net:27017,mern-shard-00-01.xvzcr.mongodb.net:27017,mern-shard-00-02.xvzcr.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-rl8dha-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
